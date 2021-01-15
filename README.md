@@ -1,1 +1,2 @@
-# NinoBot
+# DiscordBots
+## NinoBot
