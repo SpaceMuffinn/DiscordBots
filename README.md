@@ -1,2 +1,3 @@
 # DiscordBots
+## MuffinnBot
 ## NinoBot
